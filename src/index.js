@@ -7,7 +7,7 @@ btnCifrado.addEventListener('click', () => {
   let texto = document.getElementById('first').value;
   let desplazamiento = document.getElementById('second').value;
 
-  containerResult.innerHTML = window.operators.encode(texto, desplazamiento);
+  containerResult.innerHTML = window.cipher.encode(texto, desplazamiento);
 
 })
 btnDescifrado.addEventListener('click', () => {
