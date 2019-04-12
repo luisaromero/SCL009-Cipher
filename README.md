@@ -29,12 +29,12 @@ Para esto se diseño un prototipo simple , para hacer fácil la experiencia de u
 
 ### Prototipo uno . 
 El que permitió hacer una imagen general de lo que se quería lograr .Pero tenía muchas pantallas , lo que podía dificultar la experiencia de usuario .
-![prot1](https://img.fenixzone.net/i/QMeUST3.jpeg)
+![prot1](https://img.fenixzone.net/i/S8lF79y.jpeg?fbclid=IwAR2vXD7yeZDNnEKr9LNPTYATsHqzqSvYcZQctgAwU0kvmy1kqMQ0s1xR1LA)
 
 ### Prototipo segundo y final .
 
 Finalmente el prototipo más cercano a web finalizada , para esto consideramos que debíamos simplificar la plataforma .
-![prot2](https://img.fenixzone.net/i/l6TAV1S.jpeg)
+![prot2](https://img.fenixzone.net/i/iPCZO0X.jpeg?fbclid=IwAR0RrkA4Bf6Tfm5sATvH_bmEKE5pxFy8UMT3nG2SjvnSJI2XdPHxdI-Qef0)
 
 ![mapadeflujo](https://img.fenixzone.net/i/mOC9hN7.jpeg)
 
