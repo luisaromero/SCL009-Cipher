@@ -14,8 +14,8 @@ result += String.fromCharCode ((ascci - 32 + desplazamiento) % 1 + 32)
   result += String.fromCharCode ((ascci - 241 + parseInt(desplazamiento)) % 1 + 241)
 }if (ascci ==209) {
     result += String.fromCharCode ((ascci - 209 + parseInt(desplazamiento)) % 1 + 209) 
-} if(ascci >= 32 && ascci <=  32) {
-  result += String.fromCharCode ((ascci - 32 + desplazamiento) % 1 + 32) 
+} if(ascci >= 48 && ascci <=  57) {
+  result += String.fromCharCode(((ascci - 48 + parseInt(desplazamiento)+20) % 10) + 48)
 }
 } return result
 },
@@ -33,6 +33,9 @@ result += String.fromCharCode ((ascci - 32 - desplazamiento) % 1 + 32)
   result += String.fromCharCode ((ascci - 241 - parseInt(desplazamiento)) % 1 + 241)
 }if(ascci ==209) {
     result += String.fromCharCode ((ascci - 209 - parseInt(desplazamiento)) % 1 + 209)
+} if(ascci >= 48 && ascci <=  57) {
+    result += String.fromCharCode(((ascci - 48 - parseInt(desplazamiento)+1000) % 10) + 48)
+    
 }
 }
  return result

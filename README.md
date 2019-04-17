@@ -46,7 +46,7 @@ Para usar la web solo necesitas entrar a este enlace y colocar tu mensaje a cifr
 
 Para descifrar un mensansaje debes hacer lo mismo , debes colocar el mensaje ya cifrado , colocar el descifrado que el emisor del mensaje coloca para cifrar su mensaje y darle al botón **descifrar** .  ***¡ Y listo !*** El mensaje ya fue descifrado y podrás ver que es lo que realmente dice . 
 
-*Para usar la web presiona el siguiente enlace*
+*Para usar la web presiona [aquí](https://luisaromero.github.io/SCL009-Cipher/src/index.html)*
 
 ### Como descargar *Tu secreto*
 
