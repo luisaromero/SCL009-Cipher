@@ -1,10 +1,11 @@
 ![logo](https://img.fenixzone.net/i/PZF56Lk.png)
-![web](https://img.fenixzone.net/i/CquP7Rt.png)
+
 
 # ¿Qué es "Tu secreto" ?
 
 
 *Tu secreto* es una plataforma que permite al usuario crear un texto cifrado , con la finalidad de que el receptor o los receptores de este texto lo puedan descifrar en la misma página . En resumen un **emisor** y un **receptor** se puedan mandar mensajes en clave , que a simple vista parecieran ser mensajes sin sentido y que solo los usuarios que emitan y reciban estos mensajes puedan saber que es lo que efectivamente digan estos **mensajes**.
+![web](https://img.fenixzone.net/i/CquP7Rt.png)
 
 ## ¿ A quien va dirigido ?
 
@@ -25,7 +26,7 @@ Quieres saber como se cifran y descifran los mensajes , accede aquí:
  <https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar>
 
 ## Diseñando la web
-Para esto se diseño un prototipo simple , para hacer fácil la experiencia de usario .
+Para esto se diseño un prototipo simple , para hacer fácil la experiencia de usuario .
 
 ### Prototipo uno . 
 El que permitió hacer una imagen general de lo que se quería lograr .Pero tenía muchas pantallas , lo que podía dificultar la experiencia de usuario .
